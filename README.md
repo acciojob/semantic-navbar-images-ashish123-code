@@ -13,4 +13,4 @@ Make a semantic navbar i. e using semantic elements ex:- nav, ul, a.
  
 
  Add the heading `3 random images` above the images.
-img
+
